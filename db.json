@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "gr",
+      "price": "182.00",
+      "image": "gfgd",
+      "id": 8
     }
   ]
 }
